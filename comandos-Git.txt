@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Rumyn123/web2_act1.git
+git push -u origin master
